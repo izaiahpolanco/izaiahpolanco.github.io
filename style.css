@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+
+#nav-table{ width: 1024px;}
+
+#nav-td{width: 200px; text-align: center;}
+
+h1{color: rgb(15, 97, 153); text-align: center; width: 1024px;}
+
+p{color: white;}

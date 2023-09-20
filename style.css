@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 
-#nav-table{ width: 1024px;}
+#nav-table{ width: 1024px;margin-top: 20px;}
 
 #nav-td{width: 200px; text-align: center;}
 
